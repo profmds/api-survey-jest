@@ -1,0 +1,7 @@
+{
+  "name": "api-survey-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marcelo dos Santos <profmds@gmail.com>",
+  "license": "MIT"
+}
