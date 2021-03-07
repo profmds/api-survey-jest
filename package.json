@@ -5,6 +5,8 @@
   "author": "Marcelo dos Santos <profmds@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "git-commit-msg-linter": "^3.0.0"
+    "@types/node": "^14.14.32",
+    "git-commit-msg-linter": "^3.0.0",
+    "typescript": "^4.2.3"
   }
 }
